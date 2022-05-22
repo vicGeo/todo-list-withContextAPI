@@ -1,9 +1,10 @@
+import Todo from './todo/Todo';
 import './App.css';
 
 function App() {
   return (
     <>
-      TODO-LIST
+      <Todo />
     </>
   );
 }
